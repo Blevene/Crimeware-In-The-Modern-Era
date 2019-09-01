@@ -4,7 +4,8 @@ Paper and Links to Crimeware in the Modern Era
 All data is available here: 
 https://gist.github.com/Blevene/7b5620dafe370915e074b7b31619babd
 
-Executive Summary
+# Executive Summary
+
 Chronicle researchers conducted an investigation into the evolution of crimeware from 2013 through 2018. Researchers have concluded that crimeware, traditionally considered a “commodity threat,” has evolved into a highly lucrative business as criminals are constantly improving their techniques and law enforcement activity grows increasingly ineffectual. Attackers and defenders are entrenched in a longstanding game of cat and mouse, resulting in a rapid expansion of the crimeware threat landscape, and growing sophistication of attacks and malware infrastructure. This research examines the rise of financially motivated malware and the impact of attempted countermeasures. 
 
 The report details the emergence and growth of banking trojans, ransomware, infostealers and cryptomining malware, the impact of a wide variety of crimeware including: GameOver Zeus, Cryptolocker, Dridex, Dyre, Trickbot, Ramnit, and attacks including the targeted attacks on the SWIFT messaging network, the Mirai botnet, the WannaCry ransomware outbreak, and others.
